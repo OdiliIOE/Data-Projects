@@ -48,4 +48,5 @@ Use the data to complete the following tasks in `medical_data_visualizer.py`:
 
 ### Development
 
-For development, you can create a jupyter notebook to test your code functions. 
+## Emmanuel IO Odili
+Data Analyst | Independent Business Consultant Lagos, Nigeria
