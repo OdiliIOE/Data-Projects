@@ -46,7 +46,7 @@ Use the data to complete the following tasks in `medical_data_visualizer.py`:
 - Note: Any time a variable is set to `None`, make sure to set it to the correct code.
 
 
-### Development
+### Author
 
 ## Emmanuel IO Odili
 Data Analyst | Independent Business Consultant Lagos, Nigeria
